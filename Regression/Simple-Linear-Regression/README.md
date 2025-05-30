@@ -1,11 +1,9 @@
-# QB2022 Rating Prediction
+# QB 2022 Linear Regression Project
 
-This project uses simple linear regression to predict NFL quarterback ratings based on completion percentage in 2022.
+This project uses linear regression (both manually using Numpy and via scikit-learn) to predict a quarterback's rating based on their completion percentage for the 2022 NFL season.
 
-## Methods
-- Linear Algebra 
-- Scikit-learn 
-
-## Deployment
-```bash
-pip install -r requirements.txt
+# Task Summary
+- Implemented linear regression with matrix algebra
+- Used scikit-learn's LinearRegression
+- Predicted Patrick Mahomes' rating
+- Calculated squared error from actual rating
