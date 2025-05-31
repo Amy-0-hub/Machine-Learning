@@ -7,3 +7,8 @@ This project uses linear regression (both manually using Numpy and via scikit-le
 - Used scikit-learn's LinearRegression
 - Predicted Patrick Mahomes' rating
 - Calculated squared error from actual rating
+
+# Built with
+1. numpy
+2. pandas
+3. sklearn

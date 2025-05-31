@@ -14,30 +14,25 @@ A comprehensive collection of machine learning algorithms and statistical method
   - Gradient Descent Optimization
 - Statistical Analysis
   - One-sample t-test
-  - Two-sample t-test
-  - Wilcoxon Rank Sum Test
-  - Chi-square Test
+  - Hypothesis Testing College Data
 - Dimensionally Reduction
   - Principal Component Analysis (PCA)
   - Singular Value Decomposition (SVD)
 - Machine Learning Algorithms
   - K-Nearest Neighbors (KNN)
-  - K-Means Clustering
-  - Radial Basis Function (RBF)
+  - K-Means Clustering and Radial Basis Functions
 - Model Evaluation
   - Bias and Variance Trade-off
   - Validation Techniques
-  - Regularization (Ridge & Lasso)
 - Neural Networks
-  - Fully Connected Neural Network (MLP)
-  - Convolutional Neural Network (CNN)
-  - Recurrent Neural Network (RNN)
+  - Lasso and Neural Network (NN)
+  - NN-RNN-CNN1D
 
 ---
 
 # Technologies
 - Language: Python
-- Libraries: `numpy`, `scipy`, `matplotlib`, `sklearn`
+- Libraries: `numpy`, `pandas`, `sklearn`,`scipy`, `matplotlib`, `plotly`, `tensorflow`, `keras`, `statsmodels`
 
 ---
 

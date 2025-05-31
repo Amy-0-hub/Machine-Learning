@@ -1,0 +1,7 @@
+numpy
+pandas
+statsmodel
+os
+PIL
+sklearn
+plotly

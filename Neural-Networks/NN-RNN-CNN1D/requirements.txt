@@ -1,0 +1,8 @@
+numpy
+pandas
+pandas_profiling
+plotly
+sklearn
+tensorflow
+keras
+statsmodels

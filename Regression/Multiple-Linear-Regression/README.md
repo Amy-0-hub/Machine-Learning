@@ -20,6 +20,11 @@ This project performs multiple linear regression (MLR) to predict NFL quarterbac
 - Engineered feature model MSE: **16.3**
 - **Conclusion**: The error of the second model is lower than the error of the first model that had more features.
 
+## Built with
+1. pandas
+2. numpy
+3. sklearn
+
 ## Deplyment
 ```bash
 pip install numpy pandas scikit-learn
